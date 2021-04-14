@@ -30,8 +30,7 @@
         </environment>
     </environments>
     <mappers>
-        <mapper resource="UserMapper.xml"/>
-
+        <mapper class="com.dao.UserMapper"/>
     </mappers>
 
 </configuration>
